@@ -1,9 +1,12 @@
 # contao-theme-ara
-Das Ara Theme ist ein Shop-Theme für das Contao CMS, das auf der beliebten Erweiterung MetaModels basiert. Es ist dazu gedacht die Erweiterung MM Shop näher kennenzulernen.
+
+Das Ara Theme ist ein Shop-Theme für das Contao CMS, das auf der beliebten Erweiterung [MetaModels](https://now.metamodel.me)
+basiert. Es ist dazu gedacht, die Erweiterung [MM Shop](https://github.com/birdsinthesun/mm_shop) näher kennenzulernen.
 
 ### Zugang zum Contao-Backend
-Benutzer: Ara
-Passwort: HelloContao
+
+- Benutzer: Ara
+- Passwort: HelloContao
 
 ### Ganz einfach und schnell über die Konsole installieren
 
